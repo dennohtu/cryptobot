@@ -4,7 +4,7 @@
 var config = {};
 
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//                          GENERAL SETTINGSss
+//                          GENERAL SETTINGSs
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 config.debug = true; // for additional logging / debugging
