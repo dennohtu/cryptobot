@@ -1,0 +1,7 @@
+connectionString = "mongodb+srv://admin:dennoh.mongo@cryptobot-06sqk.mongodb.net/test?retryWrites=true&w=majority"
+path = "plugins/mongodb"
+version = 0.1
+
+[[dependencies]]
+module = "mongojs"
+version = "2.4.0"
